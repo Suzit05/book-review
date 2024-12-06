@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "rating": 4.8,
+        "isTrending": true,
+        "isFeatured": false,
+        "genres": [
+            "Fictional",
+            "Biography",
+            "Highest Rated"
+        ],
+        "reviews": [
+            {
+                "user": "Alice",
+                "comment": "A timeless classic that touches on important themes.",
+                "rating": 5
+            },
+            {
+                "user": "Bob",
+                "comment": "Beautifully written, but a bit slow at times.",
+                "rating": 4.5
+            },
+            {
+                "user": "Charlie",
+                "comment": "An essential read for everyone.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "rating": 4.7,
+        "isTrending": true,
+        "isFeatured": true,
+        "genres": [
+            "Fictional",
+            "Action",
+            "Highest Rated"
+        ],
+        "reviews": [
+            {
+                "user": "Dave",
+                "comment": "A chilling portrayal of a dystopian future.",
+                "rating": 4.9
+            },
+            {
+                "user": "Eva",
+                "comment": "Thought-provoking and deeply unsettling.",
+                "rating": 4.8
+            },
+            {
+                "user": "Frank",
+                "comment": "A masterpiece that feels more relevant every year.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "rating": 4.4,
+        "isTrending": false,
+        "isFeatured": true,
+        "genres": [
+            "Fictional",
+            "Biography",
+            "Lowest Rated"
+        ],
+        "reviews": [
+            {
+                "user": "Grace",
+                "comment": "A captivating story of love and loss.",
+                "rating": 4.5
+            },
+            {
+                "user": "Hank",
+                "comment": "Fitzgerald’s prose is unmatched.",
+                "rating": 4.3
+            },
+            {
+                "user": "Ivy",
+                "comment": "The characters are flawed but compelling.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "rating": 4.5,
+        "isTrending": false,
+        "isFeatured": true,
+        "genres": [
+            "Fictional",
+            "Biography",
+            "Romance"
+        ],
+        "reviews": [
+            {
+                "user": "Jack",
+                "comment": "A delightful exploration of social norms and love.",
+                "rating": 4.7
+            },
+            {
+                "user": "Karen",
+                "comment": "Witty, romantic, and timeless.",
+                "rating": 4.6
+            },
+            {
+                "user": "Liam",
+                "comment": "A bit slow for modern tastes, but still enjoyable.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "rating": 4.3,
+        "isTrending": false,
+        "isFeatured": false,
+        "genres": [
+            "Fictional",
+            "Biography",
+            "Lowest Rated"
+        ],
+        "reviews": [
+            {
+                "user": "Mia",
+                "comment": "A relatable and raw exploration of youth.",
+                "rating": 4.4
+            },
+            {
+                "user": "Nathan",
+                "comment": "Holden’s voice is unique and memorable.",
+                "rating": 4.2
+            },
+            {
+                "user": "Olivia",
+                "comment": "I found it overrated, but still worth a read.",
+                "rating": 4.1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "bookName": "Moby Dick",
+        "author": "Herman Melville",
+        "rating": 4.1,
+        "isTrending": true,
+        "isFeatured": true,
+        "genres": [
+            "Fictional",
+            "Adventure",
+            "Lowest Rated"
+        ],
+        "reviews": [
+            {
+                "user": "Paul",
+                "comment": "Epic in scope, but requires patience.",
+                "rating": 4.0
+            },
+            {
+                "user": "Quinn",
+                "comment": "A challenging but rewarding read.",
+                "rating": 4.3
+            },
+            {
+                "user": "Rachel",
+                "comment": "The symbolism is rich, but the pace is slow.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "bookName": "War and Peace",
+        "author": "Leo Tolstoy",
+        "rating": 4.6,
+        "isTrending": true,
+        "isFeatured": false,
+        "genres": [
+            "Fictional",
+            "Biography",
+            "Highest Rated"
+        ],
+        "reviews": [
+            {
+                "user": "Sam",
+                "comment": "A masterpiece of historical fiction.",
+                "rating": 4.8
+            },
+            {
+                "user": "Tina",
+                "comment": "Long but worth the effort.",
+                "rating": 4.6
+            },
+            {
+                "user": "Uma",
+                "comment": "The characters are unforgettable.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "rating": 4.8,
+        "isTrending": false,
+        "isFeatured": true,
+        "genres": [
+            "Fictional",
+            "Fantasy",
+            "Adventure"
+        ],
+        "reviews": [
+            {
+                "user": "Victor",
+                "comment": "A magical and thrilling adventure.",
+                "rating": 5.0
+            },
+            {
+                "user": "Wendy",
+                "comment": "Perfect for readers of all ages.",
+                "rating": 4.9
+            },
+            {
+                "user": "Xander",
+                "comment": "Tolkien’s world-building is incredible.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "rating": 4.2,
+        "isTrending": true,
+        "isFeatured": true,
+        "genres": [
+            "Fictional",
+            "Adventure",
+            "Fantasy"
+        ],
+        "reviews": [
+            {
+                "user": "Yara",
+                "comment": "Inspiring and beautifully written.",
+                "rating": 4.3
+            },
+            {
+                "user": "Zane",
+                "comment": "A simple story with profound lessons.",
+                "rating": 4.4
+            },
+            {
+                "user": "Amy",
+                "comment": "I found it a bit repetitive but meaningful.",
+                "rating": 4.1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "bookName": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "rating": 4.9,
+        "isTrending": true,
+        "isFeatured": false,
+        "genres": [
+            "Fictional",
+            "Fantasy",
+            "Highest Rated"
+        ],
+        "reviews": [
+            {
+                "user": "Brian",
+                "comment": "An enchanting start to a magical series.",
+                "rating": 5.0
+            },
+            {
+                "user": "Cathy",
+                "comment": "Brilliantly imaginative and engaging.",
+                "rating": 4.9
+            },
+            {
+                "user": "Derek",
+                "comment": "A must-read for fantasy lovers.",
+                "rating": 4.8
+            }
+        ]
+    }
+]

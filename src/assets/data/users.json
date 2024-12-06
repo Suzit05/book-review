@@ -1,0 +1,27 @@
+[
+    {
+        "role": "admin",
+        "email": "admin@bookreview.com",
+        "password": "password123"
+    },
+    {
+        "role": "user",
+        "email": "user1@bookreview.com",
+        "password": "password123"
+    },
+    {
+        "role": "user",
+        "email": "user2@bookreview.com",
+        "password": "password123"
+    },
+    {
+        "role": "user",
+        "email": "user3@bookreview.com",
+        "password": "password123"
+    },
+    {
+        "role": "user",
+        "email": "user4@bookreview.com",
+        "password": "password123"
+    }
+]
